@@ -13,20 +13,17 @@ import java.io.IOException;
 /**
  * A class modelling a tic-tac-toe (noughts and crosses, Xs and Os) game.
  *
- * @author Lynn Marshall
- * @version November 8, 2012
- *
  * @author Abdullah Soboh (101220742)
  * @version April 8, 2023
  *
  * Citations:
  *
- * "O_ICON" “File:O.svg,” Wikimedia Commons. [Online]. Available: https://commons.wikimedia.org/wiki/File:O.svg. [Accessed: 06-Apr-2023]. 
- * "X_ICON" “File:X.svg,” Wikimedia Commons. [Online]. Available: https://commons.wikimedia.org/wiki/File:X.svg. [Accessed: 06-Apr-2023]. 
- * "xSound" “File:xSound.wav,”XKit. [Online]. Available: https://mixkit.co/free-sound-effects/move/. [Accessed: 06-Apr-2023]. 
- * "OSound" “File:oSound.wav,”XKit. [Online]. Available: https://mixkit.co/free-sound-effects/move/. [Accessed: 06-Apr-2023]. 
- * "winSound" “File:winSound.wav,”XKit. [Online]. Available: https://mixkit.co/free-sound-effects/win/. [Accessed: 06-Apr-2023]. 
- * "tieSound" “File:tieSound.wav,”XKit. [Online]. Available: https://mixkit.co/free-sound-effects/tie/. [Accessed: 06-Apr-2023]. 
+ * "O_ICON" â€œFile:O.svg,â€Â Wikimedia Commons. [Online]. Available: https://commons.wikimedia.org/wiki/File:O.svg. [Accessed: 06-Apr-2023].Â 
+ * "X_ICON" â€œFile:X.svg,â€Â Wikimedia Commons. [Online]. Available: https://commons.wikimedia.org/wiki/File:X.svg. [Accessed: 06-Apr-2023].Â 
+ * "xSound" â€œFile:xSound.wav,â€XKit. [Online]. Available: https://mixkit.co/free-sound-effects/move/. [Accessed: 06-Apr-2023].Â 
+ * "OSound" â€œFile:oSound.wav,â€XKit. [Online]. Available: https://mixkit.co/free-sound-effects/move/. [Accessed: 06-Apr-2023].Â 
+ * "winSound" â€œFile:winSound.wav,â€XKit. [Online]. Available: https://mixkit.co/free-sound-effects/win/. [Accessed: 06-Apr-2023].Â 
+ * "tieSound" â€œFile:tieSound.wav,â€XKit. [Online]. Available: https://mixkit.co/free-sound-effects/tie/. [Accessed: 06-Apr-2023].Â 
  */
 public class TicTacToe extends JFrame implements ActionListener {
     //TicTacToe core game variables
