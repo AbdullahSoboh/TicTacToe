@@ -14,7 +14,6 @@ HOW TO START THIS PROJECT:
 To begin, simply create an instance of the main class and initiate gameplay.
 
 AUTHORS:
-Lynn Marshal
 Abdullah Soboh (101220742)
 
 USER INSTRUCTIONS:
