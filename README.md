@@ -5,7 +5,7 @@ This is the project README file.
 PROJECT TITLE: Advanced TicTacToe
 
 PURPOSE OF PROJECT:
-This project offers an engaging and immersive GUI-based TicTacToe gaming experience, showcasing innovative features and an enhanced visual appeal.
+This project offers an engaging and immersive GUI-based TicTacToe gaming experience, showcasing innovative features and an enhanced visual appeal. Created with Java and objected-oriented development software design.
 
 VERSION or DATE:
 April 8, 2023
